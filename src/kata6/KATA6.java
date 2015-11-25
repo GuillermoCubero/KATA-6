@@ -1,12 +1,8 @@
 package kata6;
 
-import static java.awt.PageAttributes.MediaType.A;
 import java.io.IOException;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import static javax.print.attribute.standard.MediaSize.Engineering.A;
-import static javax.print.attribute.standard.MediaSizeName.A;
-import static javax.swing.text.html.HTML.Tag.A;
 
 public class KATA6 {
 
